@@ -1,0 +1,35 @@
+.div-bar{
+    display: flex;
+    background-color : darkorange;
+    height: 10vh;
+}
+
+.GroupName{
+    /*margin: auto;*/
+    transform: translate(45%, 50%);
+    background-color : skyblue;
+}
+
+/*OLD CODE*/
+.logo-img {
+    height: 5%;
+}
+
+.IconDiv{
+    background-color: red;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100%;
+    width: 50%;
+}
+
+/*.menubutton{*/
+
+/*}*/
+
+.butLogin{
+    display: flex;
+    justify-content: flex-end;
+    background-color: darkorchid;
+    /*margin-left: 87vw;*/
+}

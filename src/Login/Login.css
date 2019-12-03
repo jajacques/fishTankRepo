@@ -1,0 +1,109 @@
+.login-div {
+    overflow: auto;
+    margin-left: 30VW;
+    margin-top: 10VH;
+    padding-top: 5%;
+    height: 80VH;
+    width: 40VW;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    background-color: pink;
+    text-align: center;
+}
+
+.LoginForm {
+    background-color: white;
+    width: 60%;
+    height: 40%;
+    margin-left: 20%;
+
+}
+
+/*Left over, can probably be discarded*/
+
+.grid-background {
+    background-color: #b71c1c;
+    text-align: center;
+}
+
+.grid-container-sign-in-up {
+    margin: 20px 0;
+    background-color: white;
+    min-height: 630px;
+    max-height: 100vh;
+    max-width: 500px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.2);
+
+    /* Make Text Un-selectable */
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+
+    /*
+      Introduced in IE 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.grid-container-top-bars {
+    height: 60px;
+    text-transform: uppercase;
+}
+
+.grid-item-top-bar {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    cursor: pointer;
+    background-color: #D2D8D8;
+}
+
+.top-bar-links {
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: block;
+    color: black;
+}
+
+.bar-active {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    background-color: white;
+}
+
+.grid-container-sign-in-up-content {
+    height: 100%;
+    padding-bottom: 60px;   /* To center form elements with offset */
+}
+
+
+
+.msg {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.login-div > img {
+    height: 10rem;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.signup-div > img {
+    height: 5rem;
+}
+
+.login-div > a, .login-div > button {
+    margin: 16px 0 0 0;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    text-decoration: none !important;
+}

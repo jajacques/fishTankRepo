@@ -1,0 +1,33 @@
+.Main-div {
+    /*overflow: auto;*/
+    /*margin-left: 2.5VW;*/
+    /*margin-top: 2.5VH;*/
+    /*padding-top: 5%;*/
+    /*height: 95VH;*/
+    /*width: 95VW;*/
+    /*-webkit-box-sizing: border-box; !* Safari/Chrome, other WebKit *!*/
+    /*-moz-box-sizing: border-box;    !* Firefox, other Gecko *!*/
+    /*box-sizing: border-box;         !* Opera/IE 8+ *!*/
+    /*background-color: skyblue;*/
+    /*text-align: center;*/
+    background-color: deepskyblue;
+    display: block;
+    padding-top: 2.5vh;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+}
+
+.LoginForm {
+    background-color: white;
+    width: 60%;
+    height: 40%;
+    margin-left: 20%;
+}
+
+.Indiv-Tank{
+    background-color: white;
+    width: 60vw;
+    height: 40vh;
+    margin-left: 30vw;
+}

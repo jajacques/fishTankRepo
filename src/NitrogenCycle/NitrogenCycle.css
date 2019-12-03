@@ -1,0 +1,41 @@
+.Main-Nitro{
+    background-color: deepskyblue;
+    display: block;
+    padding-top: 2.5vh;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-left: 2.5VW;*/
+    /*margin-top: 2.5VH;*/
+    /*height: 100VH;*/
+    /*width: 85VW;*/
+}
+.img-div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+}
+
+/*.Main-Nitro{*/
+/*    background-color: darkorchid;*/
+/*    display: block;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    width: 90%;*/
+/*    height: auto;*/
+/*}*/
+
+/*.Main-div {*/
+/*    overflow: auto;*/
+/*    margin-left: 2.5VW;*/
+/*    margin-top: 2.5VH;*/
+/*    padding-top: 5%;*/
+/*    height: 95VH;*/
+/*    width: 95VW;*/
+/*    -webkit-box-sizing: border-box; !* Safari/Chrome, other WebKit *!*/
+/*    -moz-box-sizing: border-box;    !* Firefox, other Gecko *!*/
+/*    box-sizing: border-box;         !* Opera/IE 8+ *!*/
+/*    background-color: skyblue;*/
+/*    text-align: center;*/
+/*}*/
