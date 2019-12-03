@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {IconButton, Button, Grid, ButtonGroup, Toolbar, Typography, Link} from '@material-ui/core';
+// import {IconButton, Button, Grid, ButtonGroup, Toolbar, Typography, Link} from '@material-ui/core';
+import {Button, Grid, ButtonGroup, Link} from '@material-ui/core';
 import "./NavBar.css";
 
 class NavBar extends Component {
